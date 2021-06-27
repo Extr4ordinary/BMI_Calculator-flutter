@@ -1,4 +1,4 @@
-# *BMI-Calculator*
+# *BMI Calculator*
 
 - With it's cleanly written code you can easily customize the questions, delete or add a new one.
 
