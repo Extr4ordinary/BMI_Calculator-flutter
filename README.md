@@ -7,5 +7,5 @@
 
 
 <div class="row">
-  <img src="images/bmi-calc-demo.gif" width="330">
+  <img src="images/bmi-calc-demo.gif" width="300">
 </div>
